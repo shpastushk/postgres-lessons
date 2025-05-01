@@ -97,6 +97,7 @@ thai=# select * from book.seat_view;
 ```
 
 Проверяем удаление
+
 В ride = 3 свободных мест стало 4.
 
 ```
